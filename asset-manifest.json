@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prueba-ruteo/static/css/main.8af9a36a.css",
+    "main.js": "/prueba-ruteo/static/js/main.b669f747.js",
+    "index.html": "/prueba-ruteo/index.html",
+    "main.8af9a36a.css.map": "/prueba-ruteo/static/css/main.8af9a36a.css.map",
+    "main.b669f747.js.map": "/prueba-ruteo/static/js/main.b669f747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8af9a36a.css",
+    "static/js/main.b669f747.js"
+  ]
+}
